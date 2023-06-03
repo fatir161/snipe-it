@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'esed-ams'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC779252106543C6B2BB0EECB9784A47 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_347B653360F4434882B3A14EC0140DDA }}
           package: .
